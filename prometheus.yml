@@ -7,8 +7,8 @@ scrape_configs:
     static_configs:
       - targets: ['localhost:9090']
 
-  - job_name: 'gestao-vendas'
+  - job_name: 'api'
     scrape_interval: 5s
     metrics_path: '/actuator/prometheus'
     static_configs:
-      - targets: ['app:8080']
+      - targets: ['192.168.0.101:8080']
