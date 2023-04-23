@@ -18,4 +18,12 @@ with the command <code>docker-compose up -d</code>, and when the application is 
 
 
 ## Demo
+![image](https://user-images.githubusercontent.com/56695817/233850650-a53f570b-24bf-4a05-a0b6-7589cd3267a9.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/56695817/233850738-25e336e9-168e-4b33-8197-730b669d9aca.png)
+
+<br>
+
 ![image](https://user-images.githubusercontent.com/56695817/233850305-67b0a80e-8f14-4a07-882b-417781ff9d24.png)
