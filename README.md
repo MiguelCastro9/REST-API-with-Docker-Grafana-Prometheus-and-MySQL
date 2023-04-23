@@ -30,4 +30,8 @@ with the command <code>docker-compose up -d</code>, and when the application is 
 
 <br>
 
+![image](https://user-images.githubusercontent.com/56695817/233854427-a912b5e1-c938-48fe-9c23-1f2e4e8aa27e.png)
+
+<br>
+
 ![image](https://user-images.githubusercontent.com/56695817/233850305-67b0a80e-8f14-4a07-882b-417781ff9d24.png)
